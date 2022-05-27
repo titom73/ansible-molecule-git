@@ -1,6 +1,4 @@
-## v1.3-1-ge23bf23
-
-## v1.3
+## master
 
 ### Features
 
@@ -9,6 +7,7 @@
 ### Bug fixes
 
  - [`b3d1d5e`](https://github.com/aristanetworks/ansible-avd/commit/b3d1d5e) [Fix]        Restore proper spacing in action.yml ([#9](https://github.com/aristanetworks/ansible-avd/issues/9))
+ - [`9911181`](https://github.com/aristanetworks/ansible-avd/commit/9911181) [entrypoint] Update entrypoint shell to support regex match ([#6](https://github.com/aristanetworks/ansible-avd/issues/6))
 
 ### Documentation
 
@@ -21,14 +20,4 @@
  - [`b43cbf4`](https://github.com/aristanetworks/ansible-avd/commit/b43cbf4) [Make]       Build system: Update build context
  - [`cfcc6e3`](https://github.com/aristanetworks/ansible-avd/commit/cfcc6e3) [Make]       Build system: Update docker tag builder
  - [`c1c3920`](https://github.com/aristanetworks/ansible-avd/commit/c1c3920) [github]     Build system: Add PR linter for conventional commits ([#8](https://github.com/aristanetworks/ansible-avd/issues/8))
-
-## v1.2
-
-### Bug fixes
-
- - [`9911181`](https://github.com/aristanetworks/ansible-avd/commit/9911181) [entrypoint] Update entrypoint shell to support regex match ([#6](https://github.com/aristanetworks/ansible-avd/issues/6))
-
-## v1.1
-
-## v1.0
 
