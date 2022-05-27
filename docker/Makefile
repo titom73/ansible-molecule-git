@@ -1,6 +1,6 @@
 CURRENT_DIR = $(shell pwd)
-DOCKER_NAME ?= action-molecule
-DOCKER_BASE ?= avdteam
+DOCKER_NAME ?= ansible-molecule-git
+DOCKER_BASE ?= titom73
 DOCKER_TAG ?= dev
 DOCKER_DIR ?= .
 

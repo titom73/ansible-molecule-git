@@ -1,4 +1,4 @@
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/arista-netdevops-community/action-molecule-avd) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/avdteam/action-molecule) ![Docker Pulls](https://img.shields.io/docker/pulls/avdteam/action-molecule) ![GitHub](https://img.shields.io/github/license/arista-netdevops-community/action-molecule-avd)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/titom73/ansible-molecule-git) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/titom73/ansible-molecule-git) ![Docker Pulls](https://img.shields.io/docker/pulls/titom73/ansible-molecule-git) ![GitHub](https://img.shields.io/github/license/titom73/ansible-molecule-git)
 
 # Github  Action for Molecule
 

@@ -95,4 +95,4 @@ inputs:
 
 runs:
   using: docker
-  image: docker://avdteam/action-molecule:latest
+  image: docker://titom73/ansible-molecule-git:latest
